@@ -1,7 +1,7 @@
-package com.CenterWarriors.controller;
+package com.centerWarriors.controller;
 
-import com.CenterWarriors.model.Ejercicio;
-import com.CenterWarriors.service.EjercicioService;
+import com.centerWarriors.model.Ejercicio;
+import com.centerWarriors.service.EjercicioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

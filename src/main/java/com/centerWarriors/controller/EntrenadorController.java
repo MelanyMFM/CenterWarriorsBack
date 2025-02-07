@@ -1,7 +1,7 @@
-package com.CenterWarriors.controller;
+package com.centerWarriors.controller;
 
-import com.CenterWarriors.model.Entrenador;
-import com.CenterWarriors.service.EntrenadorService;
+import com.centerWarriors.model.Entrenador;
+import com.centerWarriors.service.EntrenadorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

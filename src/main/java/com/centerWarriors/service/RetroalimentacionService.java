@@ -1,7 +1,7 @@
-package com.CenterWarriors.service;
+package com.centerWarriors.service;
 
-import com.CenterWarriors.model.Retroalimentacion;
-import com.CenterWarriors.repository.RetroalimentacionRepository;
+import com.centerWarriors.model.Retroalimentacion;
+import com.centerWarriors.repository.RetroalimentacionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

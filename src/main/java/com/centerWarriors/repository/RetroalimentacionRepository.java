@@ -1,6 +1,6 @@
-package com.CenterWarriors.repository;
+package com.centerWarriors.repository;
 
-import com.CenterWarriors.model.Retroalimentacion;
+import com.centerWarriors.model.Retroalimentacion;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RetroalimentacionRepository extends JpaRepository<Retroalimentacion, Long> {

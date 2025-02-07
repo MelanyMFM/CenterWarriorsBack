@@ -1,4 +1,4 @@
-package com.CenterWarriors.model;
+package com.centerWarriors.model;
 
 import jakarta.persistence.*;
 

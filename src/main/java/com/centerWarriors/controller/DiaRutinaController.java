@@ -1,7 +1,7 @@
-package com.CenterWarriors.controller;
+package com.centerWarriors.controller;
 
-import com.CenterWarriors.model.DiaRutina;
-import com.CenterWarriors.service.DiaRutinaService;
+import com.centerWarriors.model.DiaRutina;
+import com.centerWarriors.service.DiaRutinaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
-package com.CenterWarriors.service;
+package com.centerWarriors.service;
 
-import com.CenterWarriors.model.Ejercicio;
-import com.CenterWarriors.repository.EjercicioRepository;
+import com.centerWarriors.model.Ejercicio;
+import com.centerWarriors.repository.EjercicioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

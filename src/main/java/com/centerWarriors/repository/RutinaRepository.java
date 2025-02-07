@@ -1,6 +1,6 @@
-package com.CenterWarriors.repository;
+package com.centerWarriors.repository;
 
-import com.CenterWarriors.model.Rutina;
+import com.centerWarriors.model.Rutina;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RutinaRepository extends JpaRepository<Rutina, Long> {

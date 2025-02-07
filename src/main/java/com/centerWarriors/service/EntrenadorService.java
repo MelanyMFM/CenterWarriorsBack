@@ -1,7 +1,7 @@
-package com.CenterWarriors.service;
+package com.centerWarriors.service;
 
-import com.CenterWarriors.model.Entrenador;
-import com.CenterWarriors.repository.EntrenadorRepository;
+import com.centerWarriors.model.Entrenador;
+import com.centerWarriors.repository.EntrenadorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

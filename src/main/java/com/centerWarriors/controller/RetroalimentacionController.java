@@ -1,7 +1,7 @@
-package com.CenterWarriors.controller;
+package com.centerWarriors.controller;
 
-import com.CenterWarriors.model.Retroalimentacion;
-import com.CenterWarriors.service.RetroalimentacionService;
+import com.centerWarriors.model.Retroalimentacion;
+import com.centerWarriors.service.RetroalimentacionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

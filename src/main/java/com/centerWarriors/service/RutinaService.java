@@ -1,7 +1,7 @@
-package com.CenterWarriors.service;
+package com.centerWarriors.service;
 
-import com.CenterWarriors.model.Rutina;
-import com.CenterWarriors.repository.RutinaRepository;
+import com.centerWarriors.model.Rutina;
+import com.centerWarriors.repository.RutinaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
